@@ -1,0 +1,6 @@
+@article{REPO326,
+    author = "Liu, Wenqian and Li, Runze and Zheng, Meng and Karanam, Srikrishna and Wu, Ziyan and Bhanu, Bir and Radke, Richard J and Camps, Octavia",
+    journal = "arXiv preprint arXiv:1911.07389",
+    title = "{Towards Visually Explaining Variational Autoencoders}",
+    year = "2019"
+}
